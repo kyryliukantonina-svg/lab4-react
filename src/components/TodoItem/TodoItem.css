@@ -1,0 +1,6 @@
+.span-style{
+    font: "italic"; 
+    color: "#d35e0f";
+    opacity: 0.6;
+    /* textDecoration: "line-through"; */
+}
